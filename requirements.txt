@@ -1,0 +1,8 @@
+firefly-python
+pandas
+numPy
+scikit-learn
+nltk
+flask 
+redis
+requests
