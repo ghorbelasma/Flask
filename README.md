@@ -1,5 +1,5 @@
 # Flask
-**Sentiment analysis of Twitter messages**
+**Sentiment analysis of Twitter messages** .  
 This repository provides the necessary files to run a Flask application that classify tweets into 3 labels: 
 0 - hate speech 
 1 - offensive language 
